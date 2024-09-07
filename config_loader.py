@@ -17,9 +17,9 @@ DEFAULT_CONFIG = {
     "OWNER_IDS": "260912891782365196",
     "COMMAND_LOG": False,
     "EMBED_COLOR": None,
-    "BOT_ADD_REMOVE_LOG": '',
-    "ERROR_REPORT_WEBHOOK": '',
-    "AUTO_ERROR_REPORT_WEBHOOK": '',
+    "BOT_ADD_REMOVE_LOG": 'https://discord.com/api/webhooks/1281794299415232534/edXB4hVVUQrT7DxrCLAY9uE3AB9I2yKNwtpUdLSg6p9XhiYzunnzbHkDZRSvmJAHULco',
+    "ERROR_REPORT_WEBHOOK": 'https://discord.com/api/webhooks/1281794299415232534/edXB4hVVUQrT7DxrCLAY9uE3AB9I2yKNwtpUdLSg6p9XhiYzunnzbHkDZRSvmJAHULco',
+    "AUTO_ERROR_REPORT_WEBHOOK": 'https://discord.com/api/webhooks/1281794299415232534/edXB4hVVUQrT7DxrCLAY9uE3AB9I2yKNwtpUdLSg6p9XhiYzunnzbHkDZRSvmJAHULco',
     "INTERACTION_COMMAND_ONLY": False,
     "PRESENCE_INTERVAL": 900,
     "SOURCE_REPO": "https://github.com/zRitsu/MuseHeart-MusicBot.git",
@@ -42,7 +42,7 @@ DEFAULT_CONFIG = {
     #########################
     ### Sistema de música ###
     #########################
-    "AUTO_DOWNLOAD_LAVALINK_SERVERLIST": False,
+    "AUTO_DOWNLOAD_LAVALINK_SERVERLIST": True,
     "LAVALINK_SERVER_LIST": "https://gist.githubusercontent.com/zRitsu/c3511e1da0440b94c126769dd40c9d91/raw/lavalink.ini",
     "LAVALINK_RECONNECT_RETRIES": 30,
     "DEFAULT_SKIN": "default",
